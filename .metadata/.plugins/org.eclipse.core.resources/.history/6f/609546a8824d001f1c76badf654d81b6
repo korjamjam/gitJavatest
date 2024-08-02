@@ -1,0 +1,32 @@
+package solopractice2.test2;
+
+import java.util.HashSet;
+import java.util.TreeSet;
+
+public class LotteryController {
+	HashSet lottery = new HashSet();
+	HashSet win = new HashSet();
+	
+	public boolean insertObject(Lottery l) {
+		return lottery.add(l);
+	}
+	
+	public boolean deleteObject(Lottery l) {
+		return true;
+	}
+	
+	public HashSet winObject(Lottery l) {
+		return null;
+	}
+	
+	public TreeSet sortedWinObject(Lottery l) {
+		return null;
+	}
+	
+	public boolean searchWinner(Lottery l) {
+		return true;
+	}
+	
+	
+
+}

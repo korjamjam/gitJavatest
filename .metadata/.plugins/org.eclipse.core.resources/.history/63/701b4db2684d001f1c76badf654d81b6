@@ -1,0 +1,9 @@
+package test.t240729.object1;
+
+public class Lottery {
+	private String name;
+	private String phone;
+	
+	
+
+}

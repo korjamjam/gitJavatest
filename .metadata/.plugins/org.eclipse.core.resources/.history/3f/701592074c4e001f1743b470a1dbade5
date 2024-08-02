@@ -1,0 +1,20 @@
+package solopractice2.test4;
+
+import java.net.DatagramSocket;
+import java.net.SocketException;
+
+public class UDPServerpr {
+
+	public static void main(String[] args) {
+		int port = 4000;
+		
+		try (DatagramSocket dsoc = new DatagramSocket(port)){
+		} catch (SocketException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+
+	}
+
+}

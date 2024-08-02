@@ -1,0 +1,12 @@
+package solopractice.object.practice10;
+
+import java.util.ArrayList;
+
+import test.t240731.object1.Fruit;
+
+public class MyCollection {
+	
+	ArrayList<Fruit> list = new ArrayList<Fruit>();
+	
+
+}

@@ -1,0 +1,46 @@
+package kh.model.vo;
+
+import java.io.Serializable;
+
+public class Food implements Serializable{ //직렬화 선언
+	//필드에 String타입의 name과 int타입의 kcal 필드를 선언
+	private String name;
+	private int kcal;
+	
+	//기본 생성자
+	public Food() {
+		super();
+	}
+
+	//매개변수가 있는 생성자
+	public Food(String name, int kcal) {
+		super();
+		this.name = name;
+		this.kcal = kcal;
+	}
+
+	//getter 와 setter 작성
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public int getKcal() {
+		return kcal;
+	}
+
+	public void setKcal(int kcal) {
+		this.kcal = kcal;
+	}
+
+	//toString() 메소드를 오버라이딩하여 인스턴스변수의 값에 대한 문장을 작성
+	@Override
+	public String toString() {
+		return "Food [name=" + name + ", kcal=" + kcal + "]";
+	}
+	
+	
+}

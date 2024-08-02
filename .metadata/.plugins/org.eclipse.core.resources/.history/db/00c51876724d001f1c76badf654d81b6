@@ -1,0 +1,31 @@
+package test.t240729.object1;
+
+import java.util.HashSet;
+
+public class LotteryController {
+	private HashSet lotter = new HashSet();
+	private HashSet win = new HashSet();
+	
+	public boolean insertObject(Lottery l) {
+		if(lotter.contains(null)) {
+			lotter.add(l);
+			return true;
+		}else {
+			System.out.println("중복된 대상입니다. 다시 입력하세요.");
+			return true;
+		}
+	}
+
+	public boolean deleteObject(Lottery l) {
+		return true;
+	}
+	public boolean winObject() {
+		return true;
+	}
+	public boolean sortedWinObject() {
+		return true;
+	}
+	public boolean searchWinner(Lottery l) {
+		return true;
+	}
+}

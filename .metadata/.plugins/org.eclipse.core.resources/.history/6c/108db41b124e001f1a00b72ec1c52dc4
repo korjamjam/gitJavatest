@@ -1,0 +1,33 @@
+package solopractice2.test3;
+
+import java.util.HashMap;
+import java.util.TreeMap;
+
+public class MemberController {
+	private HashMap map = new HashMap();
+	
+	public boolean joinMembership(String id, Member m) {
+		if() {
+			System.out.println("중복된 아이디 입니다. 다시 입력해주세요.");
+		}else {
+			System.out.println("성공적으로 회원가입 완료하였습니다. ");
+			map.put(id, m);
+		}
+	}
+	
+	public String logIn(String id, String password) {
+		return null;
+	}
+	
+	public boolean changePassword(String id, String oldPw, String newPw) {
+		return true;
+	}
+	
+	public void changeName(String id, String newName) {
+	}
+	public TreeMap sameName(String name) {
+		return null;
+	}
+	
+
+}

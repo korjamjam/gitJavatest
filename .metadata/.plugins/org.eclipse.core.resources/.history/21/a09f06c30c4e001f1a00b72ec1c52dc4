@@ -1,0 +1,8 @@
+package solopractice2.test3;
+
+import java.util.HashMap;
+
+public class MemberController {
+	private HashMap map = new HashMap();
+
+}

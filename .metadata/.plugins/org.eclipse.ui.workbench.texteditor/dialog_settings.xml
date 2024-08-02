@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="느와르"/>
+		<list key="findhistory">
+			<item value="느와르"/>
+			<item value="애니"/>
+			<item value="예능"/>
+			<item value="package test.t240724.object1;"/>
+			<item value="학생"/>
+			<item value="pwd"/>
+			<item value="sArr"/>
+			<item value="pirce"/>
+			<item value="nums"/>
+			<item value="strArr"/>
+			<item value="num"/>
+			<item value="str"/>
+			<item value="equals"/>
+			<item value="math"/>
+			<item value="eng"/>
+		</list>
+		<list key="replacehistory">
+			<item value="사원"/>
+			<item value="price"/>
+			<item value="arr"/>
+			<item value="dan"/>
+			<item value="strArr"/>
+			<item value="mathScore"/>
+			<item value="engScore"/>
+			<item value="korScore"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="132"/>
+		<item key="DIALOG_Y_ORIGIN" value="263"/>
+		<item key="DIALOG_WIDTH" value="322"/>
+		<item key="DIALOG_HEIGHT" value="391"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+	</section>
+</section>

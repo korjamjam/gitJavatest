@@ -1,0 +1,9 @@
+package o.collection.map;
+
+public class Snack {
+	private String flavor;
+	private int colory;
+
+	
+	
+}

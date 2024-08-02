@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthOptionPaneUI"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.lang.Math"/>
+    <fullyQualifiedTypeName name="java.util.jar.Attributes.Name"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="test.t240710.object4.Snack"/>
+    <fullyQualifiedTypeName name="test.t240712.object1.Member"/>
+    <fullyQualifiedTypeName name="solopractice.object.practice6.Student"/>
+    <fullyQualifiedTypeName name="j.Interface.Dog"/>
+    <fullyQualifiedTypeName name="j.Interface.ex1.ex2.Shape"/>
+    <fullyQualifiedTypeName name="j.Interface.ex1.Dog"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.kh.vo.Book"/>
+    <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+    <fullyQualifiedTypeName name="com.kh.vo.Member"/>
+    <fullyQualifiedTypeName name="com.kh.menu.Menu"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Objects"/>
+    <fullyQualifiedTypeName name="java.util.Iterator"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.util.Map.Entry"/>
+    <fullyQualifiedTypeName name="java.net.Socket"/>
+    <fullyQualifiedTypeName name="solopractice.object.practice6.Person"/>
+    <fullyQualifiedTypeName name="test.t240731.object1.Fruit"/>
+    <fullyQualifiedTypeName name="solopractice.object.practice9.Fruit"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.net.InetAddress"/>
+</qualifiedTypeNameHistroy>

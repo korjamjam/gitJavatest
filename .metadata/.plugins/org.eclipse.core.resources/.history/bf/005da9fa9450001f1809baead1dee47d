@@ -1,0 +1,45 @@
+package l.io.ex1;
+
+import java.io.IOException;
+import java.net.ServerSocket;
+import java.net.Socket;
+import java.net.UnknownHostException;
+
+public class Run4 {
+
+//	public void client() {
+//		int port = 3000;
+//		String serverIP;
+//		try {
+//			try {
+//				serverIP = InetAddress.getLocalHost().getHostAddress();
+//				Socket socket = new Socket(serverIP, port);
+//				System.out.println(serverIP);
+//			} catch (UnknownHostException e) {
+//				e.printStackTrace();
+//			}
+//		} catch (UnknownHostException e) {
+//			e.printStackTrace();
+//		} catch (IOException e) {
+//			e.printStackTrace();
+//		}
+//	}
+	
+	public void server() {
+		int port = 3000;
+
+		ServerSocket server;
+		try {
+			server = new ServerSocket(port);
+			Socket client = server.accept();
+		} 
+		catch (UnknownHostException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}finally {
+			
+		}
+	}
+
+}

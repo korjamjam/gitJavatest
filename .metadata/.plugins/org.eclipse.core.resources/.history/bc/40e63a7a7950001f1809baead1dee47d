@@ -1,0 +1,15 @@
+package solopractice.object.practice10;
+
+import solopractice.object.practice6.Person;
+
+public class Test2 {
+
+	public static void main(String[] args) {
+		Person[] pArr = new Person[3];
+		
+		for(int i=0; i<=pArr.length; i++) {
+			System.out.println(pArr[i].getName());
+		}
+	}
+
+}

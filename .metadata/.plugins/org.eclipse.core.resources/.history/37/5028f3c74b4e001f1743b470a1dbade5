@@ -1,0 +1,10 @@
+package solopractice2.test4;
+
+public class UDPServerpr {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
